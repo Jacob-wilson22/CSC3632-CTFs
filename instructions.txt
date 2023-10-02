@@ -1,1 +1,2 @@
-You have to get the flag out of some transformation of what you find in the file provided. It should be basic! 
+Your flag has been encrypted using AES 256 CBC and your token as password.
+
