@@ -1,2 +1,1 @@
-Your flag has been encrypted using AES 256 CBC and your token as password.
-
+To solve this challenge, you will need to use the "file" tool on the command line, as well as the relevant tools. You might even need to use sed! 
